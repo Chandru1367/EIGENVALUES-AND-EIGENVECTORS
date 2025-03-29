@@ -23,6 +23,7 @@ eigen_values,eigen_vector=np.linalg.eig(a)
 print(f"Eigen values are {eigen_values} and Eigen Vectors are {eigen_vector}")
 ```
 
+
 ## Output:
 
 ![output](image.png)
